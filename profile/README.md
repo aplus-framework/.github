@@ -31,7 +31,7 @@ If you are looking for stability, we offer [**LTS**](https://aplus-framework.com
 
 All libraries are [tested daily](https://status.aplus-framework.com/) to ensure that everything is working correctly.
 
-If you use a modern PHP editor, you will see how productive it is to work with the Aplus Framework.
+If you use a [modern PHP editor](https://www.jetbrains.com/phpstorm/), you will see how productive it is to work with the Aplus Framework.
 
 We put links to RFCs, [documentation](https://docs.aplus-framework.com/) and articles that aid in learning and development.
 
