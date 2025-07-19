@@ -21,6 +21,7 @@ You can use the libraries individually to, for example:
 - [Centralize configurations](https://github.com/aplus-framework/config)
 - [Internationalize and localize content](https://github.com/aplus-framework/language)
 - [Work with sessions](https://github.com/aplus-framework/session)
+- [Debug with the exceptions page and the powerful debug bar](https://github.com/aplus-framework/debug)
 
 Your feedbacks will always be most welcome!
 
@@ -39,7 +40,7 @@ Codes are tested with Quality Tools, have PHPDocs and friendly interfaces that h
 
 And much more!
 
-> An online demo can be viewed [here](https://demo.aplus-framework.com).
+> An online demo can be viewed [here](https://demo.aplus-framework.com) (debug bar is on the bottom left).
 
 <sub>* Don't forget to follow the [Aplus Framework](https://github.com/aplus-framework) organization
 and star [repositories](https://github.com/orgs/aplus-framework/repositories). ⭐ Thank you!</sub>
