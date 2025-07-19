@@ -11,7 +11,7 @@ You can use the libraries individually to, for example:
 - [Encrypt messages](https://github.com/aplus-framework/crypto)
 - [Work with databases](https://github.com/aplus-framework/database)
 - [Quickly create command-line applications](https://github.com/aplus-framework/cli)
-- [Handle HTTP requests and responses on the server with object orientation](https://github.com/aplus-framework/http)
+- [Handle HTTP messages on the server with object orientation](https://github.com/aplus-framework/http)
 - [Make interactions with a self-intuitive HTTP client](https://github.com/aplus-framework/http-client)
 - [Do high-performance routing](https://github.com/aplus-framework/routing)
 - [Cache data](https://github.com/aplus-framework/cache)
