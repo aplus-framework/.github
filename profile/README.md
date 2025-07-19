@@ -31,13 +31,15 @@ If you are looking for stability, we offer [**LTS**](https://aplus-framework.com
 
 All libraries are [tested daily](https://status.aplus-framework.com/) to ensure that everything is working correctly.
 
-If you use a [modern PHP editor](https://www.jetbrains.com/phpstorm/), you will see how productive it is to work with the Aplus Framework.
+If you use a [modern PHP IDE](https://www.jetbrains.com/phpstorm/), you will see how productive it is to work with the Aplus Framework.
 
 We put links to RFCs, [documentation](https://docs.aplus-framework.com/) and articles that aid in learning and development.
 
 Codes are tested with Quality Tools, have PHPDocs and friendly interfaces that help autocomplete.
 
 And much more!
+
+> An online demo can be viewed [here](https://demo.aplus-framework.com).
 
 <sub>* Don't forget to follow the [Aplus Framework](https://github.com/aplus-framework) organization
 and star [repositories](https://github.com/orgs/aplus-framework/repositories). ⭐ Thank you!</sub>
